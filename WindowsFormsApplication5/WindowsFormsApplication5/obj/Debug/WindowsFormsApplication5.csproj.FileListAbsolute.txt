@@ -1,0 +1,15 @@
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\浩\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.Common.dll
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.License.dll
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.Pdf.dll
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.XLS.dll
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.Common.xml
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.Pdf.xml
+C:\Users\浩\Documents\Visual Studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Spire.XLS.xml

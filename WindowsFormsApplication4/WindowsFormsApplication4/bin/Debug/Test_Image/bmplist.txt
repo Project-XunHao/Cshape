@@ -1,0 +1,2 @@
+C:\Users\ºÆ\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Test_Image\bmp\battery_low.bmp
+C:\Users\ºÆ\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Test_Image\bmp\list_Veiw_RightDown.bmp
